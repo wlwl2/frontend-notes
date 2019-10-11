@@ -1,3 +1,3 @@
-# stack-overflow-frontend
+# frontend-notes
 
-A collection of useful Stack Overflow questions and answers for front-end development.
+A collection of useful resources for front-end development.
