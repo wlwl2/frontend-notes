@@ -2,7 +2,7 @@
 
 A collection of useful resources for front-end development.
 
-- Getting a web browser to navigate to a url/link using JavaScript:
+## Getting a web browser to navigate to a url/link using JavaScript:
 
 ```
 window.location.href = '/example';
